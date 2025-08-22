@@ -28,5 +28,5 @@ This is a Node.js bot that **monitors a WordPress job/nlogs site** and **automat
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/telegram-wp-job-bot.git
-cd telegram-wp-job-bot
+git clone https://github.com/yourusername/telegram-wp-job-bot.git](https://github.com/gajanan0210/wordpress-telegram-bot
+cd wordpress-telegram-bot
